@@ -152,7 +152,6 @@ class ContactUs2
 							</li>
 							<li><a href="rentlist.php">Rent list</a></li>
 							<li><a href="manage.php">Manage Vehicle</a></li>
-							<li><a href="aboutus2.php">About Creator</a></li>
 							<li><a href="contactus2.php">Contact Us!</a></li>
 						</ul>
 					</nav>';
