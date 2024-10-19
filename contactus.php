@@ -139,7 +139,6 @@ class ContactUs
         								<li><a href="kendaraan2.php">Motor</a></li>
         							</ul>
         						</li>
-        						<li><a href="aboutus.php">About Creator</a></li>
         						<li><a href="contactus.php">Contact Us!</a></li>
         					</ul>
                         </nav>
